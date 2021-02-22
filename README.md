@@ -1,6 +1,6 @@
 # Moveit | NLW#04
 
-![home](https://github.com/Igorbrands/moveit/blob/main/public/print-home.png)
+![home](https://github.com/Igorbrands/moveit/blob/main/public/print-home.png?raw=true)
 
 ## Available Scripts
 
